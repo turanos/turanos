@@ -1,16 +1,27 @@
-### Hi there 👋
+# Turan OS Lahiyəsi🐧
+![banner](   )
 
-<!--
-**turanos/turanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Haqqında 
+Turan OS, Debian bazalı Azərbaycanda inkişaf etdirilən bir Linux distro startapıdır. Startap Kiber Təhlükəsizlik platformasının dəstəyi ilə davam etdirilir və yenidir.
 
-Here are some ideas to get you started:
+## 🌐 Sosial Media:
+##### 🕸 [Rəsmi Vebsayt](https://turanos.az)
+####    
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](  ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/turanlinux) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](    ) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 İstifadə olunan texnologiyalar:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 🧩 Komandamız:
+##### [Heydər İsmayıllı](https://github.com/heyderismayilli092)  - Turan OS qurucu lideri
+##### [Sübhan Qədirli](https://github.com/subhanqedirli)  - İnterfeys Dizayneri
+##### [Hasan Yıldız](https://github.com/hasan-pisi)       - Sistem tester'i
+##### [Ali Alpagu](https://github.com/aligaz)             - Sistem tester'i
+# ⬇️ Yükləmə
+ #### 💿 [Turan OS Beta versiyasını yüklə](  )
+ # ✉️ Bizimlə Əlaqə
+ ##### Heydər İsmayıllı - heyderismayilli092@protonmail.com
+ ##### Sübhan Qədirli   - subhanqedirli@protonmail.com
+ ##### Hasan Yıldız     - hasanyildiz0@protonmail.com 
+ 
+ 
+ ##### 2023 Turan OS
