@@ -7,7 +7,7 @@ Turan OS, Debian bazalı Azərbaycanda inkişaf etdirilən bir Linux distro star
 ## 🌐 Sosial Media:
 ##### 🕸 [Rəsmi Vebsayt](https://turanos.az)
 ####    
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]((https://discord.com/invite/ggaUPPCAVr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/turanlinux) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@turan-linux) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/ggaUPPCAVr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/turanlinux) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@turan-linux) 
 
 # 💻 İstifadə olunan texnologiyalar:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
