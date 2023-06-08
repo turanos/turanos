@@ -1,5 +1,5 @@
 # Turan OS Lahiyəsi🐧
-![banner](   )
+![banner](https://i.ibb.co/JtBpz9H/turan-banner.png)
 
 # Haqqında 
 Turan OS, Debian bazalı Azərbaycanda inkişaf etdirilən bir Linux distro startapıdır. Startap Kiber Təhlükəsizlik platformasının dəstəyi ilə davam etdirilir və yenidir.
