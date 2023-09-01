@@ -22,6 +22,10 @@ Turan OS, Debian bazalı Azərbaycanda inkişaf etdirilən bir Linux distro star
  ##### Heydər İsmayıllı - heyderismayilli092@protonmail.com && heyderismayilli092@protonmail.com
  ##### Sübhan Qədirli   - subhanqedirli@protonmail.com
  ##### Hasan Yıldız     - hasanyildiz0@protonmail.com 
+ ##### Ali Alpagu
+ ##### Məhəmməd Balacayev
+ ##### Məhəmməd Əliyev
+
  
  
  ##### 2023 Turan OS
