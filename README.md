@@ -17,7 +17,7 @@ Turan OS, Debian bazalı Azərbaycanda inkişaf etdirilən bir Linux distro star
 ##### [Hasan Yıldız](https://github.com/hasan-pisi)       - Sistem tester'i
 ##### [Ali Alpagu](https://github.com/aligaz)             - Sistem tester'i
 # ⬇️ Yükləmə
- #### 💿 [Turan OS Beta versiyasını yüklə](  )
+ #### 💿 [Turan A1 Home versiyasını yüklə]([  ](https://turanos.kiberplatforma.az/Turan-A1-Home.iso))
  # ✉️ Bizimlə Əlaqə
  ##### Heydər İsmayıllı - heyderismayilli092@protonmail.com && heyderismayilli092@protonmail.com
  ##### Sübhan Qədirli   - subhanqedirli@protonmail.com
